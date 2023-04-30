@@ -1,0 +1,6 @@
+lightning_logs/
+ml_data/
+RecommenDationSystem/
+wandb/
+.vector_cache
+.DS_Store
